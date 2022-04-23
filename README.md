@@ -52,4 +52,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Obrigado Rocketseat pelo projeto by João Paulo 👋🏻 [Acessar Portifólio!](https://joaopaulomirandamatias.com)
+Feito com ♥ by Rocketseat 👋🏻 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
